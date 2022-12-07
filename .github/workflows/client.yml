@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-78-leewang31-s3 \
             --delete
-        working-directory: ./build
+        working-directory: fe-sprint-my-agora-states-server-reference
